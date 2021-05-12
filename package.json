@@ -1,0 +1,25 @@
+{
+  "name": "nft-marketplace",
+  "version": "1.0.0",
+  "description": "NFT Marketplace with Auction and Erc20 payments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanya5/nft-marketplace.git"
+  },
+  "keywords": [],
+  "author": "Rout Chaitanya",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "@openzeppelin/test-environment": "^0.1.4",
+    "@openzeppelin/test-helpers": "^0.5.5"
+  },
+  "bugs": {
+    "url": "https://github.com/chaitanya5/nft-marketplace/issues"
+  },
+  "homepage": "https://github.com/chaitanya5/nft-marketplace#readme"
+}
